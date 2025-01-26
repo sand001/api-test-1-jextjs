@@ -59,6 +59,23 @@ agregar pop up de notificacion a "eliminar api key"
 git commit -m "1.2.0"
 
 
+
+agregar pop up de notificacion a "editar api key"
+Agregar funcion para solo editar el nombre de la api key
+npm install @heroicons/react
+Agregando componente de sidebar
+git commit -m "1.3.0"
+
+
+
+
+
+
+git status
+git add .
+git commit -m "1.2.0"
+git push origin main
+
 git remote add origin https://github.com/sand001/api-test-1-jextjs
 gh repo create api-test-1-jextjs --private
 git push -u origin main
