@@ -55,8 +55,15 @@ habilatar boton editar
 npm install react-hot-toast
 agregar pop up de notificacion a "copiar api key"
 agregar pop up de notificacion a "eliminar api key"
+Agregando sidebar
 -27
 git commit -m "1.2.0"
+
+
+Cambiar logo por nombre tavy
+haciendo sidebar ocultable 
+npm install react-icons
+git commit -m "1.3.0"
 
 
 
