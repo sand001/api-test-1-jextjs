@@ -34,3 +34,35 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+------------------------------------------------------
+hasta donde las apis locales se pueden crear  pero no tiene limite asignado
+git commit -m "1.0.0"
+
+-habilitar el ojo para que cuande se de click se pueda ver la api key
+23
+
+-npm install @supabase/supabase-js
+-Detalles de la instalacion si se defines funciones de lectura y escritura
+interfieren con el funcionamiento de la api
+-26
+git commit -m "1.1.0"
+
+
+habilitar boton copiar
+habilatar boton editar 
+npm install react-hot-toast
+agregar pop up de notificacion a "copiar api key"
+agregar pop up de notificacion a "eliminar api key"
+-27
+git commit -m "1.2.0"
+
+
+git remote add origin https://github.com/sand001/api-test-1-jextjs
+gh repo create api-test-1-jextjs --private
+git push -u origin main
+git push origin main
+------------------------------------------------------
+
+
